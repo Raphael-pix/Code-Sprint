@@ -1,6 +1,5 @@
 
 function sumTwoNumbers() {
-    return a + b;
-}
+    return a + b;}
 
 module.exports = { sumTwoNumbers };
